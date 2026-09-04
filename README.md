@@ -48,7 +48,7 @@ Watch the gameplay demonstration on YouTube:
 1. Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone SecondSimpleProject-unity
 Open the project using Unity Hub.
 Select the SecondProject folder.
 Open the project with the appropriate Unity version.
